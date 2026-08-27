@@ -27,4 +27,4 @@ Not a fan of [generative AI](https://en.wikipedia.org/wiki/Generative_AI).
 
 I use ![ArchLinux](https://img.shields.io/badge/-Arch-1793d1?logo=archlinux&logoColor=white) btw 😏
 
-<img src="https://media.tenor.com/5p17Pcp1ZdMAAAAi/neko-arc.gif" align="center" height=25>
+<img src="https://media1.tenor.com/m/UEFv4RhDcgcAAAAd/glorp-glorpdrive.gif" align="center" height=50>

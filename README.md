@@ -25,6 +25,6 @@ Not a fan of [generative AI](https://en.wikipedia.org/wiki/Generative_AI).
 ![Javascript](https://img.shields.io/badge/-Javascript-c4b00e?logo=javascript&logoColor=white)
 
 
-I use ![ArchLinux](https://img.shields.io/badge/-Arch-1793d1?logo=archlinux&logoColor=white) btw
+I use ![ArchLinux](https://img.shields.io/badge/-Arch-1793d1?logo=archlinux&logoColor=white) btw 😏
 
 <img src="https://media.tenor.com/5p17Pcp1ZdMAAAAi/neko-arc.gif" align="center" height=25>

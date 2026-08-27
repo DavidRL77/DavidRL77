@@ -9,8 +9,6 @@ I'm a guy making stuff mainly for my own use, but one day I'll make something co
 
 - I HATE [generative AI](https://en.wikipedia.org/wiki/Generative_AI).
 
-<br>
-
 <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=DavidRL77&layout=pie&count_weight=0.5&size_weight=0.5&theme=transparent">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DavidRL77&layout=compact&count_weight=0.5&size_weight=0.5&bg_color=00000000&hide_border=true&theme=rose_pine" 
     align="left" height=190>
@@ -29,4 +27,4 @@ I'm a guy making stuff mainly for my own use, but one day I'll make something co
 
 I use ![ArchLinux](https://img.shields.io/badge/-Arch-1793d1?logo=archlinux&logoColor=white) btw 😏
 
-<img src="https://media1.tenor.com/m/UEFv4RhDcgcAAAAd/glorp-glorpdrive.gif" align="center" height=50>
+<img src="https://media1.tenor.com/m/UEFv4RhDcgcAAAAd/glorp-glorpdrive.gif" align="center" height=25>

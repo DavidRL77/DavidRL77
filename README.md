@@ -19,7 +19,7 @@ I'm a guy making stuff mainly for my own use, but one day I'll make something co
 ![Lua](https://img.shields.io/badge/-Lua-000080?logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white)
 
-### Languages I suck at (learning):
+### Languages I suck at:
 ![Rust](https://img.shields.io/badge/-Rust-D34516?logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?logo=php&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-c4b00e?logo=javascript&logoColor=white)

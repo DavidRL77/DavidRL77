@@ -5,9 +5,9 @@
 
 I'm a guy making stuff mainly for my own use, but one day I'll make something cool. 
 
-I LOVE learning I LOVE open source and I LOVE YOU 🫵 
+- I LOVE learning I LOVE open source and I LOVE YOU 🫵 
 
-Not a fan of [generative AI](https://en.wikipedia.org/wiki/Generative_AI).
+- I HATE [generative AI](https://en.wikipedia.org/wiki/Generative_AI).
 
 <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=DavidRL77&layout=pie&count_weight=0.5&size_weight=0.5&theme=transparent">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DavidRL77&layout=compact&count_weight=0.5&size_weight=0.5&bg_color=00000000&hide_border=true&theme=rose_pine" 

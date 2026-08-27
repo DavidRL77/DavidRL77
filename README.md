@@ -1,6 +1,6 @@
 ## Yo ✌︎
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hhdHMxNDYxeXpoeGlpdDhremprOTNnNm94YWF0dGRxNndiOGJ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ss9NqmOeQxRKg/giphy.gif" align="right" 
-  height=384>
+  height=400>
 
 > Programming is my hobby and knowledge is my passion.
 

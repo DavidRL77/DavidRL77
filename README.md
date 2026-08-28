@@ -4,9 +4,9 @@
 
 > Programming is my hobby and knowledge is my passion.
 
-I'm a guy making stuff mainly for my own use, but one day I'll make something cool. 
+I'm a guy making stuff mainly for myself, but one day I'll make something cool. 
 
-- I LOVE learning I LOVE open source and I LOVE YOU 🫵 
+- I LOVE learning I LOVE open source and I LOVE **YOU** 🫵 
 
 - I HATE [generative AI](https://en.wikipedia.org/wiki/Generative_AI).
 
